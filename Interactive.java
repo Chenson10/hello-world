@@ -1,4 +1,5 @@
 package pkg2interactive;
+// just testing out github my first change to a repository
 
 import java.util.Scanner;
 
